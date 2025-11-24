@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/V8Z8b2x.png" width="120" />
+</p>
 
-<!--
-**francescaxann/francescaxann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#7ec8e3;">hi, i'm ISA 🤍</h1>
+<p align="center"><i>a little space on the internet where i create things</i></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌤️ about me
+- 🎓 studying **BS Computer Science - Major in Software Technology** at **De La Salle University**
+- 💭 loves books, soft aesthetics, clean interfaces, and art
+- 🧋 fueled by iced matcha + music
+- 🌱 currently navigating through **life**
+- ✨ dream: to build something meaningful and beautiful
+
+---
+
+### 🌊 github stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francescaxann&show_icons=true&theme=transparent&title_color=7ec8e3&icon_color=7ec8e3&text_color=90a4ae" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescaxann&layout=compact&theme=transparent&title_color=7ec8e3&text_color=90a4ae" height="160">
+</p>
+
+---
+
+<p align="center"><i>thank you for visiting my cozy corner ☁️</i></p>
