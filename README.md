@@ -3,6 +3,12 @@
 </p>
 
 <h1 align="center" style="color:#7ec8e3;">hi, i'm ISA 🤍</h1>
+
+<p align="center">
+  <i>"Love is patient, love is kind."</i><br>
+  <sub>1 Corinthians 13:4–7</sub>
+</p>
+
 <p align="center"><i>a little space on the internet where i create things</i></p>
 
 ---
@@ -12,7 +18,7 @@
 - 💭 loves books, soft aesthetics, clean interfaces, and art
 - 🧋 fueled by iced matcha + music
 - 🌱 currently navigating through **life**
-- ✨ dream: to build something meaningful and beautiful
+  
 
 ---
 
