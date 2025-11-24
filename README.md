@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/mnt/data/3d75a446-d056-437d-b020-08531780fe83.png" width="100%" />
+  <img src="[/mnt/data/3d75a446-d056-437d-b020-08531780fe83.png](https://github.com/francescaxann/francescaxann/blob/main/bfe32068dd6968b97be3972c962a0838.jpg?raw=true)" width="100%" />
 </p>
 
 <h1 align="center" style="color:#7ec8e3;">hi, i'm ISA 🤍</h1>
