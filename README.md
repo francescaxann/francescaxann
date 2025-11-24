@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bfe32068dd6968b97be3972c962a0838.jpg" width="100%" />
+  <img src="d3c16f14f3ec266ede3801eeb9433cfa.jpg" width="100%" />
 </p>
 
 <h1 align="center" style="color:#7ec8e3;">hi, i'm ISA 🤍</h1>
